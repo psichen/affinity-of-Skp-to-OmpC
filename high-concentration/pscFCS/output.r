@@ -1,0 +1,8 @@
+source('./8-139.r')
+ggsave('8-139.pdf', width=8, height=6, dpi=300)
+source('./8-232.r')
+ggsave('8-232.pdf', width=8, height=6, dpi=300)
+source('./8-335.r')
+ggsave('8-335.pdf', width=8, height=6, dpi=300)
+source('./Skp.r')
+ggsave('Skp.pdf', width=8, height=6, dpi=300)
